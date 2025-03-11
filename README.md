@@ -16,7 +16,7 @@ La aplicación permite a los usuarios ingresar un número y convertirlo a su rep
 
 1. Clona este repositorio:
    ```sh
-   git clone https://github.com/tu-usuario/roman-numeral-converter.git
+   git clone https://github.com/JhonRiv21/roman-numeral-converter.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa un número en el campo de entrada.
